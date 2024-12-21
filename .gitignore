@@ -1,0 +1,60 @@
+# Flutter related
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+.metadata
+
+# Generated files
+*.lock
+*.log
+*.tmp
+*.swp
+*.DS_Store
+*.class
+*.pyc
+*.so
+*.sqlite3
+
+# Web specific
+web/manifest.json
+web/favicon.png
+web/favicon.ico
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/*.xcconfig
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+
+# VS Code
+.vscode/
+.idea/
+.idea_modules/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+__MACOSX
+._*
+
+# Linux
+*.swp
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
